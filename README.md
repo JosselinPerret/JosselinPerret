@@ -1,27 +1,35 @@
 # Hi, I’m Josselin 👋
 
-I’m an engineering student at **CentraleSupélec (’27)** with a strong interest in **quantitative finance, trading strategies & market microstructure**. I enjoy building research code that bridges **models to execution** — from clean backtests to interactive dashboards.
+I’m an engineering student at **CentraleSupélec (’27)** passionate about **AI, machine learning, and software engineering**.  
+I love building things that blend **data, algorithms, and systems** — from neural networks to control simulations.
 
 ---
 
 ## 🔭 What I work on
-- **Cross-asset microstructure** → BTC/ETH L2 arbitrage simulator with realistic latency/cost modeling  
-- **Options & volatility** → pricing apps (BS & binomial), vol dashboards with **IB API**  
-- **Forecasting** → EV charging demand prediction with time-series features & clustering  
+- **🧠 ArchaicGPT** → my own GPT built from scratch (Transformer implementation, training & sampling in PyTorch)  
+- **🤖 Data-driven UAV control (Safran collaboration)** → drone landing on moving vehicle via model identification & LQ control  
+- **⚡ ML Hackathons** → forecasting energy demand, water flow regulation, and real-world optimization challenges  
+- **🌐 Web & app projects** → React + FastAPI + Streamlit tools for visualization and deployment  
 
 ---
 
 ## 🛠️ Toolbox
-Python • NumPy • pandas • scikit-learn • XGBoost • PyTorch • Plotly/Dash • Streamlit • FastAPI • Docker  
+Python • NumPy • pandas • scikit-learn • PyTorch • XGBoost • FastAPI • React • Streamlit • Git • Docker  
 
 ---
 
 ## 🎓 Background
-- **CentraleSupélec** — engineering degree (quant/ML/finance focus)  
+- **CentraleSupélec** — engineering degree (AI / systems / data science)  
 - **ESSEC (Singapore)** — semester in strategy & innovation (2026)  
 - **Lycée Henri-IV** — MPSI/MP* prep  
 
 ---
 
-📫 **josselinprrt@gmail.com** • [LinkedIn](https://www.linkedin.com/in/josselin-perret-833382307/)  
-💡 Open to **quant research/trading internships from July 2026**
+## 🌍 Associations
+- **Genius CentraleSupélec** — innovation & entrepreneurship  
+- **BDE CentraleSupélec** — VP, artistic direction  
+
+---
+
+📫 **josselinprrt@gmail.com** • [LinkedIn](https://www.linkedin.com/in/josselin-perret-833382307/) • [GitHub](https://github.com/JosselinPerret)  
+💡 Open to **AI / ML / software engineering internships from July 2026**
