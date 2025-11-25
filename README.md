@@ -1,6 +1,6 @@
 # Hi, I’m Josselin 👋
 
-[![Startup](https://img.shields.io/badge/🚀_My_Startup-zenkolab.dev-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white)](https://www.zenkolab.dev)
+[![Startup](https://img.shields.io/badge/My_Startup-zenkolab.dev-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white)](https://www.zenkolab.dev)
 
 I’m an engineering student at **CentraleSupélec (’27)** passionate about **AI, machine learning, and software engineering**.  
 I love building things that blend **data, algorithms, and systems** — from neural networks to control simulations.
