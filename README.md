@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082&height=300&section=header&text=Hi,%20I'm%20Josselin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Theoretical%20%26%20Empirical%20Deep%20Learning%20%40%20CentraleSupélec&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082&height=300&section=header&text=Hi,%20I'm%20Josselin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Theoretical%20and%20Empirical%20Deep%20Learning%20at%20CentraleSupelec&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Header" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A965EE&center=true&vCenter=true&width=600&lines=Statistical+Machine+Learning;Empirical+Deep+Learning;Transformer+Architectures+%26+ML+Systems;MPSI%2FMP*+Mathematics+Background" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A965EE&center=true&vCenter=true&width=600&lines=Statistical+Machine+Learning;Empirical+Deep+Learning;Transformer+Architectures;MPSI%2FMP*+Mathematics+Background" alt="Typing SVG" />
   </a>
 </div>
 
@@ -58,7 +58,7 @@ Instead of treating AI as a black box, I am passionate about understanding low-l
     <img src="https://josselin-stats.vercel.app/api/pin?username=JosselinPerret&repo=ArchaicGPT&theme=tokyonight&bg_color=0D1117&icon_color=8A2BE2&v=1" alt="ArchaicGPT" />
   </a>
 
-  <a href="https://github.com/JosselinPerret/ENS-QRT-Challenge">
+  <a href="https://github.com/JosselinPerret/blackjack">
     <img src="https://josselin-stats.vercel.app/api/pin?username=JosselinPerret&repo=blackjack&theme=tokyonight&bg_color=0D1117&icon_color=8A2BE2&v=1" alt="Statistical ML / Time Series" />
   </a>
 
