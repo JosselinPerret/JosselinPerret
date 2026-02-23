@@ -56,11 +56,11 @@ I love building things that blend **data, algorithms, and systems** — from neu
 <div align="center">
   
   <a href="https://github.com/JosselinPerret/blackjack">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=JosselinPerret&repo=blackjack&theme=tokyonight&bg_color=0D1117&icon_color=8A2BE2" alt="Blackjack" />
+    <img src="https://josselin-stats.vercel.app/api/pin?username=JosselinPerret&repo=blackjack&theme=tokyonight&bg_color=0D1117&icon_color=8A2BE2&v=1" alt="Blackjack" />
   </a>
 
   <a href="https://github.com/JosselinPerret/ArchaicGPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=JosselinPerret&repo=ArchaicGPT&theme=tokyonight&bg_color=0D1117&icon_color=8A2BE2" alt="ArchaicGPT" />
+    <img src="https://josselin-stats.vercel.app/api/pin?username=JosselinPerret&repo=ArchaicGPT&theme=tokyonight&bg_color=0D1117&icon_color=8A2BE2&v=1" alt="ArchaicGPT" />
   </a>
 
 </div>
@@ -93,8 +93,8 @@ I love building things that blend **data, algorithms, and systems** — from neu
 ## 📈 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosselinPerret&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosselinPerret&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&langs_count=6" alt="Languages" />
+  <img src="https://josselin-stats.vercel.app/api?username=JosselinPerret&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true&v=1" alt="Stats" />
+  <img src="https://josselin-stats.vercel.app/api/top-langs?username=JosselinPerret&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&langs_count=6&v=1" alt="Languages" />
 </div>
 
 <br />
