@@ -44,19 +44,19 @@ Instead of treating AI as a black box, I am passionate about understanding low-l
 ## 🚀 Featured Research & Engineering
 
 ### 🏛️ The Flagships
-| **🧠 ArchaicGPT (ML Systems / NLP)** | **🔬 ZenkoLab (Empirical DL / Vision)** |
+| **🧠 NN from Scratch** | **🔬 ZenkoLab (Empirical DL / Vision)** |
 |:---:|:---:|
-| <a href="https://github.com/JosselinPerret/ArchaicGPT"><img src="https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=for-the-badge" /></a> | <a href="https://www.zenkolab.dev"><img src="https://img.shields.io/badge/Foundation_Models-Interpretability-8A2BE2?style=for-the-badge" /></a> |
-| A GPT model built entirely from scratch. **Manually coding Self-Attention, Multi-Head mechanisms**, and optimization loops without high-level abstractions to master LLM architectures. | Building robust hybrid DL/ML pipelines (fine-tuning **RETFound ViT**) and implementing advanced explainability (Grad-CAM, LIME) on real-world ophthalmological data. |
+| <a href="https://github.com/JosselinPerret/neural-network-from-scratch"><img src="https://img.shields.io/badge/NumPy-Deep_Learning-013243?style=for-the-badge&logo=numpy" /></a> | <a href="https://www.zenkolab.dev"><img src="https://img.shields.io/badge/Foundation_Models-Interpretability-8A2BE2?style=for-the-badge" /></a> |
+| Handwritten digit classification (MNIST) built entirely from scratch using NumPy. Features live backpropagation visualization and a Gradio interactive drawing interface. | Building robust hybrid DL/ML pipelines (fine-tuning **RETFound ViT**) and implementing advanced explainability (Integrated Gradients, Grad-CAM, LIME) on real-world ophthalmological data. |
 
 <br />
 
 ### 💻 Key Repositories
 <div align="center">
-  
-  <a href="https://github.com/JosselinPerret/ArchaicGPT">
-    <img src="https://josselin-stats.vercel.app/api/pin?username=JosselinPerret&repo=ArchaicGPT&theme=tokyonight&bg_color=0D1117&icon_color=8A2BE2&v=1" alt="ArchaicGPT" />
-  </a>
+
+<a href="https://github.com/JosselinPerret/neural-network-from-scratch">
+<img src="https://josselin-stats.vercel.app/api/pin?username=JosselinPerret&repo=neural-network-from-scratch&theme=tokyonight&bg_color=0D1117&icon_color=013243&v=1" alt="Neural Network from Scratch" />
+</a>
 
   <a href="https://github.com/JosselinPerret/blackjack">
     <img src="https://josselin-stats.vercel.app/api/pin?username=JosselinPerret&repo=blackjack&theme=tokyonight&bg_color=0D1117&icon_color=8A2BE2&v=1" alt="Statistical ML / Time Series" />
