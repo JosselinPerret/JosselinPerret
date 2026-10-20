@@ -26,6 +26,7 @@ Co-founder and CEO. Building robust diagnostic pipelines for ophthalmological im
 
 | Project | Description | Stack |
 |---|---|---|
+| [LLM with JAX](https://github.com/JosselinPerret/llm-with-Jax) | ~20M GPT built & trained from scratch on TinyStories · [Live demo](https://huggingface.co/spaces/almostjojo/tinystories-jax-gpt) | JAX, Flax NNX, Gradio |
 | [Neural Network from Scratch](https://github.com/JosselinPerret/neural-network-from-scratch) | Full backprop implementation on MNIST with live visualization and Gradio interface | NumPy |
 | [ENS × QRT Data Challenge](https://github.com/JosselinPerret/ENSxQRT-Data-Challenge) | Leukemia risk prediction from clinical and molecular data; survival models scored with the IPCW-C-index | scikit-survival, XGBoost |
 
