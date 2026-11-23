@@ -2,8 +2,6 @@
 
 Engineering student at [CentraleSupélec](https://www.centralesupelec.fr/) (Université Paris-Saclay, '27), currently on a gap year after an exchange semester at ESSEC Business School Singapore. My work sits at the intersection of deep learning theory, geometric machine learning, and applied finance.
 
-I am currently interning at Société Générale as a FIC Structurer.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-josselinperret.github.io-black?style=flat-square)](https://josselinperret.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josselin_Perret-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josselin-perret/)
 [![Email](https://img.shields.io/badge/Email-josselinprrt%40gmail.com-black?style=flat-square)](mailto:josselinprrt@gmail.com)
